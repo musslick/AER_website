@@ -34854,10 +34854,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 767px) {
   .u-header .u-text-1 {
-    margin-top: 20px;
-    margin-right: 0;
-    margin-left: auto;
-    margin-bottom: initial;
+    margin: 20px 0 25px auto;
   }
 }
 @media (max-width: 575px) {
