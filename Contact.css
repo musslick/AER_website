@@ -6,6 +6,11 @@
   margin: 46px 0 0;
 }
 
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
 @media (max-width: 1199px) {
   .u-section-1 .u-text-1 {
     width: auto;
