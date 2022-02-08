@@ -34908,16 +34908,23 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-sheet-1 {
-  min-height: 65px;
+  min-height: 81px;
 }
 
 .u-footer .u-text-1 {
-  margin-bottom: 20px;
+  margin-bottom: 0;
 }
 
 .u-footer .u-btn-1 {
   background-image: none;
   padding: 0;
+}
+
+.u-footer .u-custom-html-1 {
+  margin-top: 29px;
+  margin-bottom: 10px;
+  height: auto;
+  min-height: 0;
 }
 
 
